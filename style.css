@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Comfortaa', cursive;;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: gray;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+.btn{
+    padding: 15px 20px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    background: linear-gradient(35deg, #262930,#2121c4);
+    display: inline-block;
+    margin-top: 10px;
+}
+section{
+    overflow: hidden;
+    padding-bottom: 100px;
+}
+.half_width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%; 
+}
+.l_banner{
+    margin-top: 5%;
+}
+.name{
+    color: orange;
+}
+.r_about{
+    margin-top: 5%;
+}
+.service .child_work{
+    background: linear-gradient(35deg,#d8d8dc,#fbfffb);
+}
+.service .child_work h3{
+    text-align: center;
+    font-size: 30px;
+}
+.main_header{
+    margin-top: 100px;
+    text-align: center;
+}   
+.main_header span{
+    color: blue;
+} 
+.container_item{
+    margin: 0 150px;
+}  
+.work_section{   
+    background-color: #F8F9FC;
+    padding-bottom: 150px;
+}
+.child_work{
+    width: 26%;
+    float: left;
+    box-shadow: 7px 7px 15px #999999;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 35px;
+    margin-top: 50px;
+}
+.inquiry_section{
+    padding-top: 100px;
+    overflow: hidden; 
+}
+.iquiry_content{
+   width: 60%;
+   position: relative;
+   left: 20%;
+   height: 500px;
+}
+.iquiry_content img{
+    height: 220px;
+}
+.iquiry_content h2{
+    float: left;
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 70px;
+    color: white;
+}
+#iqu_btn{
+    background: linear-gradient(35deg, #F66460,#e0aa44);
+    float: right;
+    margin-top: -145px;
+    position: relative;
+    margin-right: 50px;
+    color: white;
+}
